@@ -4,7 +4,7 @@ public class Program {
 		User user2 = new User("Daniel", "Gino");
 		User user3 = new User("Rodi", "lish");
 		User user4 = new User("Yosef", "Modi");
-		User user5 = new User("Shaked", "Gt");
+		User user5 = new User("Ido", "Gt");
 		user1.follow(user2);
 		user1.follow(user3);
 		user1.follow(user4);
